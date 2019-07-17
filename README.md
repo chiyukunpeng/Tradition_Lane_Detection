@@ -63,5 +63,5 @@ Advanced_Lane_Detection项目的复现，更换了其中的数据，修改了相
 * 透视变换对于遮挡这一因素的消除十分有效，可应用到其他场合
 
 # 鸣谢
-* **特别鸣谢视觉测控与智能导航实验室糜姓大神，附上大神[Github主页链接](https://github.com/namemzy?tab=repositories)**
+* **特别鸣谢视觉测控与智能导航实验室泽阳大神，附上大神[Github主页链接](https://github.com/namemzy?tab=repositories)**
 * 鸣谢临港六狼团队所有成员以及张老板的大力指导
